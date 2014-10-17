@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+
+        <item name="android:colorPrimary">@color/grey_light</item>
+        <item name="android:colorPrimaryDark">@color/grey_dark</item>
+        <item name="android:colorAccent">@color/grey_light</item>
+        <item name="android:colorControlHighlight">@color/whi_pink</item>
+
+    </style>
+
+</resources>
